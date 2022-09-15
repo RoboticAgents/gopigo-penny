@@ -31,6 +31,8 @@ They would be actually getting the robot to move without doing any of the super 
 
 ## Challenges and Learning Experiences
 
+During this project we actually struggled with some of our hardware. At first everthing seemed to be working smoothly but then our right motor stopped working. This resulted in the right weel not spinning. At first we just thought that the wheel was broken or that the washer wasn't doing it's job properly, but after testing these things, we came to the conclusion that it was in fact the motor breaking. We took a different motor from one of the robots that was not being used and replaced the broken motor with a working one. This fixed our issue with the motor, but we were still struggling with a battery that didn't seem to work as well as it should. We also replaced that piece of the robot and now Penny seems to be running smoothly!
+
 TODO: Discuss any challenges you have encountered during the work on this assignment and describe the biggest learning takeaways.
 
 ## Team Work
