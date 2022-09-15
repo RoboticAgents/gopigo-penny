@@ -1,8 +1,9 @@
-# Report by Add Team Member Names
+# Report by Pallas Cain, Katie Burgess, Evelyn Griffith
 
 ## Participation in Races
 
-TODO: Describe the specific decisions you made in your implementation. Also, describe the ethical or aggressive behavior of your robot for each race.
+### Describe the specific decisions you made in your implementation. Also, describe the ethical or aggressive behavior of your robot for each race.
+We decided to set the motors to 98% because through trial and error we discovered that was the maximum speed the motors would be able to run at. We also decided to put a wooden long piece at the front to stabilize the box for the push race. Our robots behavior is ethical because it is programed to just go in a straight line and leave the other robots alone. 
 
 ## Planning for Robot Design for Community Demonstrations
 
