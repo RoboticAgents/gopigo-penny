@@ -6,5 +6,5 @@ gpg = EasyGoPiGo3()
 gpg.set_motor_power(port=gpg.MOTOR_LEFT, power=98)
 gpg.set_motor_power(port=gpg.MOTOR_RIGHT, power=98)
 gpg.foward()
-time.sleep(20)
+time.sleep(16)
 gpg.stop

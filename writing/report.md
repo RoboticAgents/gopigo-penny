@@ -17,10 +17,12 @@ We would attach a pen or marker to the robot and then it would drag it so that t
 
 ### Schedule
 
-TODO: Timeline | Tasks -------- | ------ dates | task 1
-               | Mechanical Additions Complete | September 15th           | task 1
-               | Coding Complete for Circle    | September 22nd by 2:30pm | task 2
-               | 
+               | Tasks --------                                    | ------ dates             | tasks
+               | Mechanical Additions Complete                     | September 15th           | task 1
+               | Coding Complete for Circle                        | September 22nd by 2:30pm | task 2
+               | Coding Complete for Triangle                      | September 22nd by 2:30pm | task 3
+               | Coding Complete for Square                        | September 22nd by 2:30pm | task 4
+               | Acquire materials for the community demonstration | September 27th by 9:30am | task 5
 
 ## Robot for Community Demonstrations
 
@@ -28,6 +30,8 @@ The basic idea is that we would pre-program the robot to draw certain shapes (li
 They would be actually getting the robot to move without doing any of the super complex coding.
 
 ## Challenges and Learning Experiences
+
+During this project we actually struggled with some of our hardware. At first everthing seemed to be working smoothly but then our right motor stopped working. This resulted in the right weel not spinning. At first we just thought that the wheel was broken or that the washer wasn't doing it's job properly, but after testing these things, we came to the conclusion that it was in fact the motor breaking. We took a different motor from one of the robots that was not being used and replaced the broken motor with a working one. This fixed our issue with the motor, but we were still struggling with a battery that didn't seem to work as well as it should. We also replaced that piece of the robot and now Penny seems to be running smoothly!
 
 TODO: Discuss any challenges you have encountered during the work on this assignment and describe the biggest learning takeaways.
 
