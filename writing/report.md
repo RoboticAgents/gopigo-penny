@@ -9,19 +9,23 @@ We decided to set the motors to 98% because through trial and error we discovere
 
 ### Idea
 
-TODO: Describe the application you have chosen to develop and provide a motivation for it. Include references (links are okay) to all resources you have used throughout your research for a project idea.
+Our Idea for the second part of our first project is to create a robot that draws pictures!
 
 ### Requested Components
 
-TODO: If you need additional components (e.g., sensors), please add them in a list below, with links to websites where these can be purchased.
+We would attach a pen or marker to the robot and then it would drag it so that the pen drags along the paper as the robot moves. We would get it to draw the top of an icecream cone and then the kids can color it in!
 
 ### Schedule
 
 TODO: Timeline | Tasks -------- | ------ dates | task 1
+               | Mechanical Additions Complete | September 15th           | task 1
+               | Coding Complete for Circle    | September 22nd by 2:30pm | task 2
+               | 
 
 ## Robot for Community Demonstrations
 
-TODO: Describe the specific details of your implementation and any design decisions you made in constructing your robot and your programs. Explain how your solution can aid in educational efforts of using robots, specifying the learning objectives of your demonstration and its engagement.
+The basic idea is that we would pre-program the robot to draw certain shapes (like a circle) and then have the kids call the command that makes the robot execute the certain shapes.
+They would be actually getting the robot to move without doing any of the super complex coding.
 
 ## Challenges and Learning Experiences
 
