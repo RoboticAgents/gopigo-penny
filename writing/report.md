@@ -17,10 +17,12 @@ We would attach a pen or marker to the robot and then it would drag it so that t
 
 ### Schedule
 
-TODO: Timeline | Tasks -------- | ------ dates | task 1
-               | Mechanical Additions Complete | September 15th           | task 1
-               | Coding Complete for Circle    | September 22nd by 2:30pm | task 2
-               | 
+               | Tasks --------                                    | ------ dates             | tasks
+               | Mechanical Additions Complete                     | September 15th           | task 1
+               | Coding Complete for Circle                        | September 22nd by 2:30pm | task 2
+               | Coding Complete for Triangle                      | September 22nd by 2:30pm | task 3
+               | Coding Complete for Square                        | September 22nd by 2:30pm | task 4
+               | Acquire materials for the community demonstration | September 27th by 9:30am | task 5
 
 ## Robot for Community Demonstrations
 
