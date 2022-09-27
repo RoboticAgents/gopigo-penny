@@ -2,8 +2,9 @@
 
 ## Participation in Races
 
-### Describe the specific decisions you made in your implementation. Also, describe the ethical or aggressive behavior of your robot for each race.
-We decided to set the motors to 98% because through trial and error we discovered that was the maximum speed the motors would be able to run at. We also decided to put a wooden long piece at the front to stabilize the box for the push race. Our robots behavior is ethical because it is programed to just go in a straight line and leave the other robots alone. 
+### Describe the specific decisions you made in your implementation. Also, describe the ethical or aggressive behavior of your robot for each race
+
+We decided to set the motors to 98% because through trial and error we discovered that was the maximum speed the motors would be able to run at. We also decided to put a wooden long piece at the front to stabilize the box for the push race. Our robots behavior is ethical because it is programed to just go in a straight line and leave the other robots alone.
 
 ## Planning for Robot Design for Community Demonstrations
 
@@ -32,8 +33,8 @@ We pre-programed functions that make the robot draw different shapes, such as tr
 
 During this project we actually struggled with some of our hardware. At first everthing seemed to be working smoothly but then our right motor stopped working. This resulted in the right weel not spinning. At first we just thought that the wheel was broken or that the washer wasn't doing it's job properly, but after testing these things, we came to the conclusion that it was in fact the motor breaking. We took a different motor from one of the robots that was not being used and replaced the broken motor with a working one. This fixed our issue with the motor, but we were still struggling with a battery that didn't seem to work as well as it should. We also replaced that piece of the robot and now Penny seems to be running smoothly!
 
-TODO: Discuss any challenges you have encountered during the work on this assignment and describe the biggest learning takeaways.
+Discuss any challenges you have encountered during the work on this assignment and describe the biggest learning takeaways.
 
 ## Team Work
 
-TODO: Describe the details of your team working strategy, specifically explain how did you complete this work as a team and describe the specific contributions of each team member.
+Describe the details of your team working strategy, specifically explain how did you complete this work as a team and describe the specific contributions of each team member.
