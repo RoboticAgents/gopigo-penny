@@ -2,8 +2,9 @@
 
 ## Participation in Races
 
-### Describe the specific decisions you made in your implementation. Also, describe the ethical or aggressive behavior of your robot for each race.
-We decided to set the motors to 98% because through trial and error we discovered that was the maximum speed the motors would be able to run at. We also decided to put a wooden long piece at the front to stabilize the box for the push race. Our robots behavior is ethical because it is programed to just go in a straight line and leave the other robots alone. 
+### Describe the specific decisions you made in your implementation. Also, describe the ethical or aggressive behavior of your robot for each race
+
+We decided to set the motors to 98% because through trial and error we discovered that was the maximum speed the motors would be able to run at. We also decided to put a wooden long piece at the front to stabilize the box for the push race. Our robots behavior is ethical because it is programed to just go in a straight line and leave the other robots alone.
 
 ## Planning for Robot Design for Community Demonstrations
 
@@ -37,4 +38,4 @@ TODO: Discuss any challenges you have encountered during the work on this assign
 
 ## Team Work
 
-TODO: Describe the details of your team working strategy, specifically explain how did you complete this work as a team and describe the specific contributions of each team member.
+We all worked extremely well as a team. From the very start we all put together our GoPiGo. We took turns doing each task for building the robot such as with the using the screwdriver for tightening and assembly. When we had to replace the motor Katie and Pallas worked on the hardware while Evelyn was on the computer running the test code. For every step we were on the same page and working together. We all took turns coding and helped check each other's code as we went along. We met outside of class multiple times and everyone showed up each time. Even when there wasn't opportunities for us all to be working on the same thing people still were busy. For example, when Katie and Evelyn were working on fixing the marker rig, Pallas made an artistic representation of the drawing on Adobe Illustrator to be used later as a visual aid when presenting to the larger audience. Katie often times brought the materials such as the paper and markers down from the resource room for the project while Evelyn and Pallas often volunteered their laptops for either programing or using outside resources or the lab. We all took turns catching the bot and handling the hardware and working with the software coding throughout the trial and error process. Overall, the team worked extremely well together and we are satisfied with the results.
