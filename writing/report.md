@@ -26,8 +26,7 @@ We would attach a pen or marker to the robot and then it would drag it so that t
 
 ## Robot for Community Demonstrations
 
-The basic idea is that we would pre-program the robot to draw certain shapes (like a circle) and then have the kids call the command that makes the robot execute the certain shapes.
-They would be actually getting the robot to move without doing any of the super complex coding.
+We pre-programed functions that make the robot draw different shapes, such as triangles and circles. We will have the kids create a main function that combines these functions and then have them call the robot to execute the code, helping them to understand the basics of programming. Once they are able to get the robot to draw the ice cream, they can then color their icecream in. We will also be displaying the trial and error drawings the robot created, helping the kids to understand that no matter your skill level, you still will have to work hard in order to get the program to do exactly what you want it to. We want the kids to learn some programming and about the importance of hard work while having fun and being creative.
 
 ## Challenges and Learning Experiences
 
