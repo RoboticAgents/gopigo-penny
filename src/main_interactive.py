@@ -42,19 +42,3 @@ def backwards_circle(final_time):
     gpg.forward()
     time.sleep(final_time)
     gpg.stop()
-
-
-def icecream_finish():
-    gpg.backward()
-    time.sleep(1)
-    circle(2.9)
-    gpg.forward()
-    time.sleep(0.82)
-    circle(3)
-    gpg.stop()
-
-
-triangle()
-circle(2.45)
-icecream_finish()
-gpg.stop()
