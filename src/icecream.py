@@ -57,16 +57,25 @@ def backwards_circle(final_time):
 
 
 def icecream_finish():
+    """ Function to compile the rest of the icecream art"""
+    # go backwards
     gpg.backward()
     time.sleep(1)
+    # go in a circle
     circle(2.9)
+    # go forward
     gpg.forward()
     time.sleep(0.82)
+    # go in a circle
     circle(3)
+    # stop moving
     gpg.stop()
 
-
+# draw the triangle (icecream cone)
 triangle()
+# draw the first circle (ice cream)
 circle(2.45)
+# draw the last two circles (ice cream)
 icecream_finish()
+# stop at the end of the code
 gpg.stop()
