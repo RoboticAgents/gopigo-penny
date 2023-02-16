@@ -1,0 +1,81 @@
+import time
+from easygopigo3 import EasyGoPiGo3
+
+# create go pi go instance
+gpg = EasyGoPiGo3()
+
+
+def triangle():
+    """ Function in order to draw a triangle using go pi go """
+    # set motor power and go forward
+    gpg.set_motor_power(port=gpg.MOTOR_LEFT, power=80)
+    gpg.set_motor_power(port=gpg.MOTOR_RIGHT, power=80)
+    gpg.forward()
+    time.sleep(1.5)
+    # set motor power and go sideways
+    gpg.set_motor_power(port=gpg.MOTOR_LEFT, power=80)
+    gpg.set_motor_power(port=gpg.MOTOR_RIGHT, power=-80)
+    gpg.forward()
+    time.sleep(0.55)
+    # set motor power and go sideways
+    gpg.set_motor_power(port=gpg.MOTOR_LEFT, power=80)
+    gpg.set_motor_power(port=gpg.MOTOR_RIGHT, power=80)
+    gpg.forward()
+    time.sleep(1.5)
+    # set motor power and go sideways
+    gpg.set_motor_power(port=gpg.MOTOR_LEFT, power=80)
+    gpg.set_motor_power(port=gpg.MOTOR_RIGHT, power=-80)
+    gpg.forward()
+    time.sleep(0.38)
+    # set motor power and go forwards
+    gpg.set_motor_power(port=gpg.MOTOR_LEFT, power=80)
+    gpg.set_motor_power(port=gpg.MOTOR_RIGHT, power=80)
+    gpg.forward()
+    time.sleep(1)
+    # stop moving at the end of the function
+    gpg.stop()
+
+
+def circle(final_time):
+    """ Function to draw a circle using go pi go; takes in a time variable in order to determine the sleep time"""
+    # go in a circular motion for as long as the time says to
+    gpg.set_motor_power(port=gpg.MOTOR_LEFT, power=10)
+    gpg.set_motor_power(port=gpg.MOTOR_RIGHT, power=98)
+    gpg.forward()
+    time.sleep(final_time)
+    gpg.stop()
+
+
+def backwards_circle(final_time):
+    """Function to draw a circle in the opposite direction; takes in a time variable to determine how long to run"""
+    # go in a circular motion for as long as the time says to
+    gpg.set_motor_power(port=gpg.MOTOR_LEFT, power=98)
+    gpg.set_motor_power(port=gpg.MOTOR_RIGHT, power=10)
+    gpg.forward()
+    time.sleep(final_time)
+    gpg.stop()
+
+
+def icecream_finish():
+    """ Function to compile the rest of the icecream art"""
+    # go backwards
+    gpg.backward()
+    time.sleep(1)
+    # go in a circle
+    circle(2.9)
+    # go forward
+    gpg.forward()
+    time.sleep(0.82)
+    # go in a circle
+    circle(3)
+    # stop moving
+    gpg.stop()
+
+# draw the triangle (icecream cone)
+triangle()
+# draw the first circle (ice cream)
+circle(2.45)
+# draw the last two circles (ice cream)
+icecream_finish()
+# stop at the end of the code
+gpg.stop()
