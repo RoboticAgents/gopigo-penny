@@ -8,4 +8,4 @@ We pre-programed functions that make the robot draw different shapes, such as tr
 
 ![Penny's Ice Cream Shop](https://github.com/RoboticAgents/project-1-gopigo-penny/blob/main/Penny.png)
 
-![Learn functions](https://github.com/RoboticAgents/project-1-gopigo-penny/blob/main/Functions.pdf)
+![Learn functions](https://github.com/RoboticAgents/project-1-gopigo-penny/blob/main/Functions.png)
